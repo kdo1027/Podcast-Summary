@@ -1,0 +1,225 @@
+{
+    "chapters": [
+        {
+            "summary": "Gus Ducker: Welcome to the Future of Life Institute podcast. Joe Carl Smith is a senior research analyst at Open Philanthropy. He focuses on existential risks from artificial intelligence and also writes about philosophy. For listeners who haven't read his blog, Ducker highly recommends it.",
+            "gist": "Interview",
+            "headline": "Future of Life Institute podcast features Joe Carl Smith, senior research analyst",
+            "start": 410,
+            "end": 56750
+        },
+        {
+            "summary": "We predictably updates towards higher belief in AI risk or taking AI risk more seriously. There are a variety of ways in which humans diverge from ideal Bayesianism. We should be cautious in assuming too quickly we know the right way to apply abstract Bayesian norms to our lived, actual kind of messy human epistemic life.",
+            "gist": "Bayesian Thinking and AI Risk",
+            "headline": "Your latest essay explores how we update our beliefs about AI risk",
+            "start": 56820,
+            "end": 326150
+        },
+        {
+            "summary": "I've become more worried about existential risk from AI. A lot of parts of my abstract model of the AI world are kind of just becoming concrete. But in a sense the emotional response to the thing actually happening shouldn't that's not where you're doing your best thinking.",
+            "gist": "Wonders of AI: Will the World Wake Up to the",
+            "headline": "So I've become more worried about existential risk from AI",
+            "start": 326300,
+            "end": 634882
+        },
+        {
+            "summary": "The difference between AI being capable and AI being dangerous. More capability is more capability to do dangerous things. We might be seeing the release of more and more capable models without disaster, without accidents. Where are we going?",
+            "gist": "Is AI More Dangerous Than It Already Is?",
+            "headline": "There's a difference between AI being capable and AI being dangerous",
+            "start": 634946,
+            "end": 987778
+        },
+        {
+            "summary": "If you are currently at very low ODS on AI risk overall, then I want to urge attention to your predictions about how you will feel in the future conditional on various forms of AI progress. Sometimes people are hesitant to describe a concrete future with AI.",
+            "gist": "Anatomy of AI Risk",
+            "headline": "I urge attention to your predictions about how you will feel conditional on AI progress",
+            "start": 987884,
+            "end": 1326274
+        },
+        {
+            "summary": "I first heard about this concept in 2013. At the time I just laughed, and I basically just thought it was weird. The book Super Intelligence changed my view in a bunch of ways and started talking with people. Perhaps we should frame this issue of AI risk to how we understand it.",
+            "gist": "A New Paradigm for AI Risk",
+            "headline": "You first heard about AI risk in 2013 and your initial reaction was dismissive",
+            "start": 1326472,
+            "end": 1543834
+        },
+        {
+            "summary": "Do you think nuclear weapons felt the same way that AI feels now in 1850 or 1900? An important difference between visceral the abstract modeling and the visceral relationship to it. I expect that to apply in the context of nukes and bio too, just to a lesser extent.",
+            "gist": "Could Nuclear Weapons Have Prevented Bio-attacks?",
+            "headline": "So you mentioned bio risk and risk from nuclear weapons, and there it does feel visceral",
+            "start": 1543952,
+            "end": 1746970
+        },
+        {
+            "summary": "There's something that worries me a bit about the talk about AI risk. I'm skeptical that warning will take place at the level of a gradually increasing number of deaths. Does this make it kind of difficult to update along the way?",
+            "gist": "Does AI Risk Have a Slow Roll?",
+            "headline": "There's something that worries me a bit about the talk about AI risk",
+            "start": 1747120,
+            "end": 2063358
+        },
+        {
+            "summary": "You talk about the unreality of the future. Why does the future feel unreal to us, do you think? I think it's a bounded mind problem. A huge portion of ethical and epistemic life is about kind of overcoming it.",
+            "gist": "The Future Feels Unreal to Us",
+            "headline": "Why does the future feel unreal to us, do you think",
+            "start": 2063444,
+            "end": 2140806
+        },
+        {
+            "summary": "Do you think different things are required for different people to begin believing in the concreteness of the future. Could it also be about seeing famous credentialed people saying that this could go wrong? Could it be more of a social thing that we begin believing more in AI risk?",
+            "gist": "What Is It That Experts Get Worried About AI?",
+            "headline": "Do you think different things are required for different people to begin believing in the future",
+            "start": 2140918,
+            "end": 2439720
+        },
+        {
+            "summary": "Is the world today perhaps filled with Sci-Fi scenarios from 1900? Is your point. There is an important sort of prior at work here. How much evidence needs to be supplied before something can kind of make it into like, oh, that's pretty good.",
+            "gist": "What Counts as Sci-Fi Scenario?",
+            "headline": "Is the world today filled with Sci-Fi scenarios from 1900",
+            "start": 2441130,
+            "end": 2961386
+        },
+        {
+            "summary": "I think it seems unlikely to me that the idea of agency or the possibility of machines that are both super intelligent and identic and pursuing goals. But I still think there's ways in which we might be leaning on those concepts quite a bit harder than they warrant.",
+            "gist": "Alexander Knutson on the Agency Problem",
+            "headline": "You can build a system that is rightly understood as pursuing some goals",
+            "start": 2961418,
+            "end": 3215586
+        },
+        {
+            "summary": "Is there a potential danger in us becoming alienated from ourselves if we rely more and more on formal models and intellectual life as opposed to connecting with our gut feelings?",
+            "gist": "Gut Feels vs. Intellectual Life",
+            "headline": "Is there a danger in relying more on formal models rather than connecting with gut feelings",
+            "start": 3215688,
+            "end": 3444010
+        },
+        {
+            "summary": "People who are attracted to AI Risk are people who are fairly model first in their epistemology. But people are going to be having gut reactions, especially because these AIS are optimized to manipulate human psychology. On balance, it would probably be great if more people sat down and created models for how they think about AI risk.",
+            "gist": "How Much Should We Trust Our Gut on AI Risk?",
+            "headline": "Chad GBT: People are going to trust their gut more with AI",
+            "start": 3444080,
+            "end": 3703790
+        },
+        {
+            "summary": "Do you think you've benefited from having these models available? You were perhaps earlier than the world in some sense. You were interested in these ideas before they became mainstream. Part of the benefit of having models is you can learn and update.",
+            "gist": "Do you think we've benefited from more explicit forecasts?",
+            "headline": "Do you think you've benefited from having explicit models available for forecasting",
+            "start": 3703860,
+            "end": 3805790
+        },
+        {
+            "summary": "Do you think amateur models of AI risks risk are worth doing? I think in general there's some sort of art to doing the short versions of potentially long or infinite tasks. I think there are benefits to that, even if you don't have time for more.",
+            "gist": "How to Create a Model of AI Risk",
+            "headline": "Do you think amateur models of AI risks risk are worth doing",
+            "start": 3806210,
+            "end": 3886118
+        },
+        {
+            "summary": "The fact that we are going to die might feel unreal to many of us. How do you think this reacts or relates to thinking about AI risk? To the extent the AI will kill us, it might contribute to the AI's unreality.",
+            "gist": "The Finiteness of Human Life",
+            "headline": "How do you think this reacts to thinking about AI risk",
+            "start": 3886284,
+            "end": 4071618
+        },
+        {
+            "summary": "In the original report, you estimated something like a 5% risk of extinction from AI before 2070. One year passes and you update this estimate in 2022. You say there's now a 10% risk or probability of extinction before2070. How did this update come about?",
+            "gist": "The Report on AI's Extinction Risk",
+            "headline": "You had this report about power seeking AI as an existential risk",
+            "start": 4071704,
+            "end": 4324590
+        },
+        {
+            "summary": "Do you think we'll then see a 2023 update saying perhaps now risk from extinction is 15%, or do you think you're moving in that direction? If we are in a very important time in human history, should we spend time thinking about utopia?",
+            "gist": "Risk from AI: 10%, utopia 0%, and other",
+            "headline": "Do you think we'll then see a 2023 update saying perhaps now risk from extinction is 15%",
+            "start": 4324670,
+            "end": 4730950
+        },
+        {
+            "summary": "I'm most worried about this dynamic insofar as it leads eventually to our disempowerment, whether that's via extinction or some other way. One I have in mind is humanity becoming less and less grounded in reality and losing contact with what's really going on.",
+            "gist": "Does AI Make the World Vulnerable?",
+            "headline": "What do you do in a world where capacity to destroy everything is becoming increasingly democratized",
+            "start": 4731020,
+            "end": 5385110
+        },
+        {
+            "summary": "On the other hand, and so if you compare with, for example, animals, animals don't struggle in that regard. I worry about, you can have AI systems that aren't conscious or that don't warrant kind of moral consideration. Just because something has moral status doesn't mean you should let it kill you.",
+            "gist": "Do Artificial Minds Have Moral Status?",
+            "headline": "Flailing Alchemy: I worry about ethical dilemmas around artificial intelligence",
+            "start": 5385260,
+            "end": 5587910
+        },
+        {
+            "summary": "Could we build a mind that is in some sense computationally like yours, or structurally like yours out of non biological elements? At a high level, I think it's just very plausible that that thing is conscious even if we don't talk about transitions.",
+            "gist": "Post-Humanism: Digital Minds",
+            "headline": "Why do you lean towards computational theories of consciousness",
+            "start": 5587980,
+            "end": 5817390
+        },
+        {
+            "summary": "I've discussed this question of digital sentience on this podcast before. For the alignment problem, it seems at least somewhat graspable. I think it's possible that you can mistreat in ethically relevant senses non conscious systems. I'm most interested right now in what are the low hanging fruit.",
+            "gist": "What on Earth Can We Do About Digital Sentience?",
+            "headline": "I've discussed this question of digital sentience on this podcast before",
+            "start": 5817470,
+            "end": 5995386
+        },
+        {
+            "summary": "There are many, many more people who are out there expressing kind of very dismissive attitudes towards AI risk. How do you think about the so called doomers and how their epistemology works in practice?",
+            "gist": "AI Risk and the Bayesian Consequences",
+            "headline": "You talked about how we can update when we have given some probability of risk",
+            "start": 5995568,
+            "end": 6146390
+        },
+        {
+            "summary": "How do you think about the possibility that all of this talk of AI risks that you've spent a lot of time on, that somehow it doesn't matter or it's not real? There's a couple of different ways that could happen.",
+            "gist": "The Future of AI Risk",
+            "headline": "How do you think about the possibility that all of this talk of AI risks is wrong",
+            "start": 6146470,
+            "end": 6323810
+        },
+        {
+            "summary": "One part of thinking about AI risk is thinking about the increase in AI capabilities. What are the best tools we have for measuring AI progress or AI capabilities?",
+            "gist": "What is the AI Threat?",
+            "headline": "One part of thinking about AI risk is thinking about the increase in AI capabilities",
+            "start": 6323880,
+            "end": 6364906
+        },
+        {
+            "summary": "It's difficult to specify ahead of time the tasks that will be meaningful with respect to AI progress. This, of course, connects to how much economic impact AIS will have in the short term and long term. What is it that you ultimately care about?",
+            "gist": "Top 10 AI Benchmarks",
+            "headline": "How do you think about benchmarks and comparing AI performance to human performance",
+            "start": 6364948,
+            "end": 7083158
+        },
+        {
+            "summary": "For some reason I find myself thinking that AI would have trouble automating the role of a CEO. Wouldn't that be a barrier to AI automating AI research and development? Let's assume that we have transformative AI by 2030 or 2035. What do you think we should do in that scenario?",
+            "gist": "Tom Clancy: Would AI Automate the CEO's Job?",
+            "headline": "Nick Brostrom: AI would have trouble automating the role of CEO",
+            "start": 7083244,
+            "end": 7641990
+        },
+        {
+            "summary": "I am most excited about safety approaches that apply to the types of systems that we're building today. As we start to have superhuman systems, the current paradigm of supervision is going to become less and less capable of constraining the behavior. I think a lot of these questions are increasingly empirical questions.",
+            "gist": "Top Five: Scalable Oversight for AI",
+            "headline": "Let's stay in this framing of transformative AI coming within the next ten years",
+            "start": 7642070,
+            "end": 7991818
+        },
+        {
+            "summary": "You mentioned interpretability research, which is this area where we're trying to take this black box AI system. How optimistic are you with this? We talked about whether interpretability can keep up with the speed of AI progress.",
+            "gist": "Robots on Interpretability",
+            "headline": "Neil Nanda questions whether interpretability can keep up with AI progress",
+            "start": 7991904,
+            "end": 8395654
+        },
+        {
+            "summary": "How do you think about that side of your work in a world in which AI is racing ahead? How relevant is philosophy in that world? How much should I just totally focus entirely on AI and alignment versus a broader set of projects?",
+            "gist": "How Much Philosophy Should I Focus on AI?",
+            "headline": "How relevant is philosophy in a world where AI is racing ahead",
+            "start": 8395782,
+            "end": 8663420
+        }
+    ],
+    "audio_url": "https://www.listennotes.com/e/p/c9006a96539e45dfa1b9e5a29c2a06bd/",
+    "thumbnail": "https://production.listennotes.com/podcasts/future-of-life/joe-carlsmith-on-how-we-ve-Dn1lVsgI-Ji6GQUmzwjh.300x300.jpg",
+    "podcast_title": "Future of Life Institute Podcast",
+    "episode_title": "Joe Carlsmith on How We Change Our Minds About AI Risk"
+}
